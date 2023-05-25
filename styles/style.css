@@ -1,0 +1,67 @@
+.layoutLeft {
+  background-color: gray;
+  position: absolute;
+  left: 28px;
+  top: 100px;
+  text-align: center;
+  width: 350px;
+  height: 75vh;
+}
+
+.layoutRight {
+  background-color: lightgray;
+  position: absolute;
+  width: 850px;
+  height: 75vh;
+  right: 28px;
+  top: 100px;
+  text-align: center;
+}
+
+body {
+  background-color: lightsalmon;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.titlePage {
+  text-align: center;
+}
+
+h1 {
+  padding: none;
+}
+
+/* links */
+.pikachuLink:hover {
+  color: yellow;
+}
+
+.squirtleLink:hover {
+  color: blue;
+}
+
+.imgConfig300 {
+  height: 300px;
+  padding: 0 275px;
+}
+
+.powerStyle {
+  text-align: center;
+  margin: auto 150px;
+  line-height: 72px;
+}
+
+.waterStyle {
+  background-color: lightskyblue;
+  color: black;
+}
+
+.electricStyle {
+  background-color: yellow;
+  color: black;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
